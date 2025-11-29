@@ -23,6 +23,16 @@ Recording and playback options for meeting sessions
 
 Breakout room support for focused group discussions
 
+🔗 Dynamic App Links
+
+Generate shareable meeting links for easy access
+
+Participants can join meetings directly through links
+
+Supports quick sharing social platforms
+
+Simplifies meeting access and increases participant engagement
+
 📝 Agenda & Task Management
 
 Plan detailed meeting agendas
